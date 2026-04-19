@@ -1,5 +1,4 @@
 # BrightTV_Project
-This is a project covers the analyses of  Bright TV users and viewership.
 
 This is a project covers the analyses of Bright TV users and viewership. The purpose of the project was to assist the CVM (Customer Value Management) to meet this years objective, which is to increase viewership. The project utilised previous data which was comprised of user Id's, channels viewed, province, race, age, gender and viewing times.
 
